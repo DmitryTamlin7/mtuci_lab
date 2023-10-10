@@ -25,3 +25,7 @@ def kalkulator(value1: int, value2: int, znak: str):
     if (znak == '**'):
         return value1 ** value2
 
+
+
+
+
